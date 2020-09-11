@@ -5,7 +5,7 @@
 <p>What is a hero to you? A hero to me is someone who is willing to risk it all for the safety of others and to do what is right.</p>
 <p>One of the heros I admire the most has these following characteristics.</p>
 
-    <ul>
+    <ul style="list-style-type: square">
       <li>Hard work- Teddy was one of the hardest workers in his time and fought for everything.</li>
       <li>Determination- Teddy was very determined and was even determined enough to eventually become President of the US.</li>
     </ul>
