@@ -1,4 +1,4 @@
-<h1> Dan Gable</h1>
+<h1> Troy Nickerson</h1>
 
-<img src=https://uncbears.com/sports/wrestling/roster/coaches/troy-nickerson/579" alt"Troy">
+<img src="http://uncbears.com/images/2019/9/9/twm_jimmy_fate_2019_1_1__71.jpg?width=300" alt"Troy">
 
