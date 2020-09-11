@@ -14,4 +14,4 @@
     
 <p>Almost 100 years ago Teddy Roosevelt passed away. He was one of the most hard working, determined, compassionate, and one of the most caring people in the world. Teddy was president from 1901 to 1909. He was one of the most famous presidents ever in the US.</p>
 
-<a href="https://www.whitehouse.gov/about-the-white-house/presidents/theodore-roosevelt/>Learn More</a>
+<a href="https://www.whitehouse.gov/about-the-white-house/presidents/theodore-roosevelt/">Learn More</a>
