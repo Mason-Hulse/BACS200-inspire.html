@@ -7,5 +7,6 @@
 
     <ul>
       <l1>Hard work- Teddy was one of the hardest workers in his time and fought for everything.</l1>
-    <p>Determination- Teddy was very determined and was even determined enough to eventually become President of the US.</p>
+      <l1>Determination- Teddy was very determined and was even determined enough to eventually become President of the US.</l1>
+    </ul>
     
